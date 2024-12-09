@@ -1,7 +1,7 @@
 name: custom_sidebar
 description: "A customizable sidebar for your flutter project."
 version: 1.0.0
-
+repository: https://github.com/agusbarrionuevodev/custom_sidebar
 environment:
   sdk: ^3.5.3
   flutter: ">=1.17.0"
