@@ -1,6 +1,6 @@
 name: custom_sidebar
-description: "A customizable sidebar for your flutter project."
-version: 1.0.0
+description: "A customizable sidebar for your flutter project. This package includes a CustomSidebar widget, which will aid you in creating navigation for your web or app, since it is fully responsive and adaptable. It also includes an option for an expansion animation where your widget will be able to expand and retract with the click of a button. This package is still in development."
+version: 1.0.1
 repository: https://github.com/agusbarrionuevodev/custom_sidebar
 environment:
   sdk: ^3.5.3
